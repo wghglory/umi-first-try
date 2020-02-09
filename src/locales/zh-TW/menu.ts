@@ -1,4 +1,5 @@
 export default {
+  'menu.channel': '渠道',
   'menu.welcome': '歡迎',
   'menu.more-blocks': '更多區塊',
 
